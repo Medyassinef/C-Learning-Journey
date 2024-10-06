@@ -17,6 +17,7 @@ To run any project, follow these steps:
    ```bash
    git clone https://github.com/username/repo-name.git
 2. Navigate to the project directory:
+
    cd repo-name
 3. Compile the C files using GCC:
    gcc filename.c -o outputname
