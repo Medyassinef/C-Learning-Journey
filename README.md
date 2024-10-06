@@ -15,10 +15,10 @@ To run any project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Medyassinef/C-Learning-Journey.git
 2. Navigate to the project directory:
    ```bash
-   cd repo-name
+   cd C-Learning-Journey
 3. Compile the C files using GCC:
    ```bash
    gcc filename.c -o outputname
