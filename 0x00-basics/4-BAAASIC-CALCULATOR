@@ -14,11 +14,11 @@ int main (){
 	
 	Sum = A + B;
 	Div = A / B;
-  Mult = A * B;
+  	Mult = A * B;
 	
 	printf("The Sum of %f and %f is: %f",A,B,Sum);
 	printf("The Division of %f by %f is:",A,B,Div);
-  printf("The Multiplication of %f by %f is: %f",A,B,Mult);
+  	printf("The Multiplication of %f by %f is: %f",A,B,Mult);
 
 	
 	return 0;
