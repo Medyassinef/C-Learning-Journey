@@ -16,9 +16,9 @@ int main (){
 	Div = A / B;
   	Mult = A * B;
 	
-	printf("The Sum of %f and %f is: %f",A,B,Sum);
-	printf("The Division of %f by %f is:",A,B,Div);
-  	printf("The Multiplication of %f by %f is: %f",A,B,Mult);
+	printf("The Sum of %.0f and %.0f is: %.1f\n",A,B,Sum);
+	printf("The Division of %.0f by %.0f is: %.1f\n",A,B,Div);
+  	printf("The Multiplication of %.0f by %.0f is: %.1f",A,B,Mult);
 
 	
 	return 0;
