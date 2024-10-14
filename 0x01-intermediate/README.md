@@ -1,2 +1,1 @@
-Fundamental programs 
-(e.g., loops, functions, arrays)
+Projects that involve file handling, pointers, memory management, etc.

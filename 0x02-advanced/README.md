@@ -1,2 +1,1 @@
-Fundamental programs 
-(e.g., loops, functions, arrays)
+More complex programs (e.g., data structures, algorithms).
